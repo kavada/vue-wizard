@@ -1,2 +1,2 @@
-# vue-wizard
+# Vue JS wizard
 Vue JS wizard
